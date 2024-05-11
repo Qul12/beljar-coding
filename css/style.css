@@ -1,0 +1,29 @@
+* {
+    text text-decoration: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Open Sans',sans-serif;
+}
+
+.wrapper {
+    width: 1000px;
+    margin: auto;
+    position: relative;
+}
+
+.logo a {
+    font-size: 50px;
+    font font-weight: 800;
+    float: left;
+    font-family: courier;
+    color: #0E46A3;
+}
+
+,menu {
+    float: right;
+}
